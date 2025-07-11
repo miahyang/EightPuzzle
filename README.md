@@ -4,5 +4,5 @@ It was initially assigned as a long term homework assignment/project for an AI c
 
 # AI Search Methods
 **src** code directory contains a **EightPuzzle.java** file that solves the 8-Puzzle using the following search algorithms: ***bfs, dfs, and A\****\
-Other methods include a **solve() and scrambleState() method as well as other helper methods for the search algorithms.
+Other methods include a **solve()** and **scrambleState()** method as well as other helper methods for the search algorithms.
 
